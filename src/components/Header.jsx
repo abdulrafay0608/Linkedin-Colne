@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { FaUserFriends, FaSearch, FaHome } from "react-icons/fa";
 import { BiSolidShoppingBagAlt } from "react-icons/bi";
 import { AiOutlineMessage } from "react-icons/ai";
@@ -9,8 +9,6 @@ import { TbGridDots } from "react-icons/tb";
 import "./Header.css"
 
 const Header = () => {
-
-    // const [show, setShow] = useState();
 
     return (
         <header>
