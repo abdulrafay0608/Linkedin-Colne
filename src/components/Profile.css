@@ -1,0 +1,215 @@
+.container1 {
+    width: 18vw;
+}
+
+.profile-container {
+    text-align: center;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.background-image-and-profile-image {
+    height: 20vh;
+    position: relative;
+}
+
+.background-image-and-profile-image>.img-banner img {
+    height: 10vh;
+    width: 100%;
+    object-fit: cover;
+    background-position: center;
+}
+
+.background-image-and-profile-image>.img-profile img {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    height: 80px;
+    border: 1px solid #000;
+    width: 80px;
+    object-fit: cover;
+    border-radius: 100%;
+    background-position: center;
+}
+
+.profile-container .content-area h4 {
+    font-size: 16px;
+}
+
+.profile-container .content-area p {
+    font-size: 12px;
+    padding: 2px 16px;
+    margin-bottom: 22px;
+    color: #6b6a6a;
+}
+
+.profile-viewers {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    text-align: left;
+    font-size: 13px;
+    color: #6b6a6a;
+    padding: 15px;
+    line-height: 22px;
+}
+
+.profile-viewers>div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.profile-viewers>div .p {
+    color: blue;
+    font-weight: bolder;
+    font-size: 12px;
+}
+
+.profile-thrid {
+    border-bottom: 1px solid #ccc;
+    text-align: left;
+    font-size: 13px;
+    color: #6b6a6a;
+    padding: 15px;
+    transition: all 0.3s ease-in-out ;
+    line-height: 22px;
+}
+
+.profile-thrid .premium a {
+    /* color: blue; */
+    text-decoration: none;
+    color: #6b6a6a;
+    font-weight: bolder;
+    font-size: 12px;
+    transition: all 0.3s ease-in-out;
+}
+
+.profile-thrid .premium a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+.profile-thrid:hover {
+    background-color: #ccc;
+}
+
+.profile-container .save {
+    display: flex;
+    column-gap: 6px;
+    align-items: center;
+    color: #595858;
+    font-size: 13px;
+    padding: 8px 12px;
+    transition: all 0.3s ease-in-out ;
+}
+
+.profile-container .save:hover {
+    background-color: #ccc;
+}
+
+
+.container1 .second-section {
+    overflow: hidden;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding-top: 10px;
+    margin-top: 8px;
+    color: #6b6a6a;
+}
+
+.container1 .second-section>p {
+    padding: 0px 20px;
+}
+
+
+.container1 .second-section>div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    color: #6b6a6a;
+    padding: 0px 20px;
+
+}
+
+.container1 .second-section>div>p {
+    font-size: 12px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-wrap: nowrap;
+    color: #6b6a6a;
+
+}
+
+.container1 .second-section .group {
+    color: blue;
+    font-size: 13px;
+    padding: 0px 20px;
+    width: min-content;
+
+}
+
+.container1 .second-section .group:hover {
+    text-decoration: underline;
+}
+
+.container1 .second-section .seeall {
+    color: #6b6a6a;
+    font-size: 13px;
+    margin-top: -12px;
+    margin-left: 30px;
+    padding: 0px 20px;
+    transition: all 0.3s ease-in-out ;
+}
+
+.container1 .second-section .seeall:hover {
+    color: #000;
+    text-decoration: underline;
+}
+
+.container1 .second-section .events {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: blue;
+    padding: 0px 20px;
+    margin-top: 20px;
+    transition: all 0.3s ease-in-out ;
+}
+
+.container1 .second-section .events:hover {
+    text-decoration: underline;
+}
+
+.container1 .second-section .events .event {
+    color: blue;
+    font-size: 13px;
+    width: min-content;
+}
+
+.container1 .second-section .followed {
+    color: blue;
+    font-size: 13px;
+    padding: 0px 20px;
+    margin: 10px 0px;
+    transition: all 0.3s ease-in-out ;
+}
+
+.container1 .second-section .followed:hover {
+    text-decoration: underline;
+}
+
+.container1 .second-section .discover-more {
+    color: #595858;
+    text-align: center;
+    /* font-size: 16px; */
+    border-top: 1px solid #ccc;
+    padding: 8px 12px;
+    transition: all 0.3s ease-in-out ;
+}
+
+.container1 .discover-more:hover {
+    background-color: #ccc;
+}

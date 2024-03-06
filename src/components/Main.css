@@ -1,0 +1,286 @@
+.container2 {
+    width: 55vw;
+}
+
+.main-container {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.container2 .first-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 12px;
+    padding: 15px 16px 2px;
+}
+
+.container2 .first-section>img {
+    height: 55px;
+    width: 55px;
+    object-fit: cover;
+    border-radius: 100%;
+    background-position: center;
+}
+
+.container2 .first-section>input {
+    width: 100%;
+    border-radius: 25px;
+    padding: 16px;
+    border: 1px solid #ccc;
+}
+
+.container2 .first-section>input:focus {
+    width: 100%;
+    border-radius: 25px;
+    padding: 16px;
+    border: 1px solid #ccc;
+    outline: #ccc;
+}
+
+.container2 .first-section-part {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container2 .first-section-part>div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4px;
+    padding: 10px;
+    margin: 0px 15px 6px;
+    transition: all 0.2s ease-in-out;
+}
+
+.container2 .first-section-part>div:hover {
+    background-color: #ccc;
+    border-radius: 6px;
+}
+
+
+.container2 .horizontail-line {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin-top: 6px;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.container2 .horizontail-line>hr {
+    flex-grow: 0.95;
+}
+
+.container2 .horizontail-line p {
+    font-size: 14px;
+    color: #ccc;
+}
+
+.container2 .horizontail-line p span {
+    color: #828282;
+    font-size: 14px;
+}
+
+
+/*  */
+
+
+.container2 article {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    margin: 10px 0px;
+}
+
+.container2 article .comment {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 4px;
+}
+
+.container2 article .comment>div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    padding: 0px 8px;
+}
+
+.container2 article .comment>div img {
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    object-fit: cover;
+
+}
+
+.container2 article .comment>div>a {
+    font-size: 13px;
+    text-decoration: none;
+    color: #222;
+    transition: all 0.3 ease-in;
+}
+
+.container2 article .comment>div>a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+.container2 article .comment>div>.span {
+    font-size: 11px;
+    color: #828282;
+}
+
+.container2 article>div .icon .BsThreeDots,
+.container2 article>div .icon .RxCross2 {
+    margin: 6px;
+}
+
+/* comment  */
+
+
+
+.container2 article .post {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 16px;
+}
+
+.container2 article .post>div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding:  12px; */
+}
+
+.container2 article .post>div>img {
+    border-radius: 50%;
+    width: 65px;
+    height: 65px;
+}
+
+.container2 article .post .nameandlevel {
+    margin: 12px;
+}
+
+.container2 article .post .nameandlevel>a {
+    font-size: 15px;
+    text-decoration: none;
+    color: #222;
+    transition: all 0.3s ease-in;
+}
+
+.container2 article .post .nameandlevel>a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+.container2 article .post .nameandlevel .level {
+    font-size: 14px;
+    margin-left: 8px;
+    color: #828282;
+}
+
+.container2 article .post .nameandlevel .tag-line {
+    font-size: 12px;
+    text-overflow: ellipsis;
+    text-wrap: nowrap;
+    width: 80%;
+    color: #828282;
+}
+
+.container2 article .post .nameandlevel .duration {
+    font-size: 12px;
+    display: flex;
+    /* justify-content: c/enter; */
+    align-items: center;
+    gap: 4px;
+    color: #828282;
+}
+
+
+.container2 article .post .follow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+    font-weight: bold;
+    gap: 6px;
+}
+
+.container2 .description {
+    font-size: 13px;
+    margin: 8px;
+    /* padding: 10px 8px; */
+    /* text-wrap: nowrap; */
+    /* text-overflow: ellipsis; */
+}
+
+.container2 .description p a {
+    margin: 18px 5px;
+    text-decoration: none;
+    color: rgb(103, 103, 241);
+    font-weight: 700;
+    transition: all 0.5s ease-in-out;
+}
+
+.container2 .description p a:hover {
+    text-decoration: underline;
+
+}
+
+.container2 img {
+    width: 100%;
+    /* height: 80vh; */
+    /* object-fit: cover; */
+    margin: 12px 0px;
+}
+
+.container2 .react {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    margin: 0px 12px;
+    position: relative;
+}
+
+
+.container2 .ai {
+    position: absolute;
+    left: 8px;
+}
+
+.container2 .react-count {
+    margin-left: 8px;
+}
+
+.container2 .react-icon {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2px;
+}
+
+.container2 .react-icon .icon-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    padding: 12px 32px;
+    border-radius: 4px;
+    font-size: 14px;
+    transition: all 0.2 ease-in-out;
+}
+
+.container2 .react-icon .icon-text:hover{
+    background-color: #ccc;
+}
