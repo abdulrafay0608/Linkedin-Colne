@@ -17,7 +17,7 @@ const Connection = () => {
             <p className='name'> Farah Mudassir</p>
             <p className='tagline'> Psychology Graduate & HR Executive | Bridging Human Insights with  </p>
 
-            <a href=""><FaPlus />  Follow</a>
+            <a href="/"><FaPlus />  Follow</a>
 
           </div>
         </div>
@@ -29,7 +29,7 @@ const Connection = () => {
             <p className='name'>Rabiya Noor Ahmed</p>
             <p className='tagline'>Frontend Developer | Proficient in HTML5, CSS3, JavaScript, Bootstrap5, </p>
 
-            <a href=""><FaPlus />  Follow</a>
+            <a href="/"><FaPlus />  Follow</a>
 
           </div>
         </div>
@@ -41,14 +41,14 @@ const Connection = () => {
             <p className='name'>Maryam Tariq</p>
             <p className='tagline'> Psychology Graduate & HR Executive | Bridging Human Insights with  </p>
 
-            <a href=""><FaPlus />  Follow</a>
+            <a href="/"><FaPlus />  Follow</a>
 
           </div>
         </div>
 
 
         <div className='view-all'>
-          <a href="">View all recommendations <FaArrowRightLong /> </a>
+          <a href="/">View all recommendations <FaArrowRightLong /> </a>
         </div>
       </div >
     </div>

@@ -26,17 +26,17 @@ const Header = () => {
             <div className='menu'>
                 <nav>
                     <ul>
-                        <li><a href=""><FaHome size={25} /><span>Home</span></a></li>
-                        <li><a href=""><FaUserFriends size={25} /><span>My Network</span></a></li>
-                        <li><a href=""><BiSolidShoppingBagAlt size={25} /><span>Jobs</span></a></li>
-                        <li><a href=""><AiOutlineMessage size={25} /><span>Messaging</span></a></li>
-                        <li><a href=""><IoNotificationsSharp size={25} /><span>Notifications</span></a></li>
+                        <li><a href="/"><FaHome size={25} /><span>Home</span></a></li>
+                        <li><a href="/"><FaUserFriends size={25} /><span>My Network</span></a></li>
+                        <li><a href="/"><BiSolidShoppingBagAlt size={25} /><span>Jobs</span></a></li>
+                        <li><a href="/"><AiOutlineMessage size={25} /><span>Messaging</span></a></li>
+                        <li><a href="/"><IoNotificationsSharp size={25} /><span>Notifications</span></a></li>
                         <li className='image'><img src="https://avatars.githubusercontent.com/u/121513581?s=48&v=4" alt="me" />ME<sub><VscTriangleDown size={15} /></sub></li>
                     </ul>
                 </nav>
                 <div className='third-menu'>
                     <div className='business'>
-                        <a href="">
+                        <a href="/">
                             <div className='explore'>
                                 <TbGridDots size={25} color='#000' />
                             </div>
@@ -44,7 +44,7 @@ const Header = () => {
                         </a>
                     </div>
                     <div className='premiun'>
-                        <a href="">
+                        <a href="/">
                             Try Premium <br /> for free
                         </a>
                     </div>

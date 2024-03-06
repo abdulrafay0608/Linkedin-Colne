@@ -40,7 +40,7 @@ const Profile = () => {
                         <p>Strengthen your profile with an AI writing assistant</p>
                     </div>
                     <div className='premium'>
-                        ⏹ <a href="">Try Premium for free</a>
+                        ⏹ <a href="/">Try Premium for free</a>
                     </div>
                 </div>
 

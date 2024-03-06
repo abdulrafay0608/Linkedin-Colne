@@ -54,7 +54,7 @@ const Main = () => {
         <div className='comment'>
           <div>
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3CZjDiX15LhFGj_2G63kjk5GnWzIzoX7R0g&usqp=CAU" alt="" />
-            <a href="">Abdul Rafay</a>
+            <a href="/">Abdul Rafay</a>
             <span className='span'>commented on this</span>
           </div>
           <div className='icon'>
@@ -68,7 +68,7 @@ const Main = () => {
           <div>
             <img src="https://media.licdn.com/dms/image/D4D03AQE_QYRll5jquA/profile-displayphoto-shrink_200_200/0/1692021678811?e=1715212800&v=beta&t=xRal8lznvDRHQ4LkkwpO-ENHohlCyzex4a5cS8FB9ww" alt="" />
             <div className='nameandlevel'>
-              <a href="">Munib ul hassan
+              <a href="/">Munib ul hassan
               </a> <GoDotFill size={10} />
               <span className='level'>2nd</span>
               <p className='tag-line'>Experienced Full Stack Developer with a Passion... </p>
@@ -94,14 +94,14 @@ const Main = () => {
           <br />
           <br />
           <p>
-            <a href="">#nodejs</a>
-            <a href="">#backend</a>
-            <a href="">#backenddevelopment</a>
-            <a href="">#backenddeveloper</a>
-            <a href="">#javascript</a> <br />
-            <a href="">#nodejsdeveloper</a>
-            <a href="">#node</a>
-            <a href="">#nodejsdevelopment</a>
+            <a href="/">#nodejs</a>
+            <a href="/">#backend</a>
+            <a href="/">#backenddevelopment</a>
+            <a href="/">#backenddeveloper</a>
+            <a href="/">#javascript</a> <br />
+            <a href="/">#nodejsdeveloper</a>
+            <a href="/">#node</a>
+            <a href="/">#nodejsdevelopment</a>
           </p>
         </div>
         <img src="https://media.licdn.com/dms/image/D4D22AQF5cHxZ6wzaQw/feedshare-shrink_800/0/1709686325568?e=1712793600&v=beta&t=RAzIkzRm_VhhKrtrv4GUpDMszYEw44Xk0b2rmGn_jlE" alt="" />
@@ -156,7 +156,7 @@ const Main = () => {
           <div>
             <img src="https://media.licdn.com/dms/image/D5635AQEieLlY70_V_Q/profile-framedphoto-shrink_100_100/0/1706593318041?e=1710334800&v=beta&t=1VLH46EZ_tVyv3qavOvI2X9m3Jk_FGDb7Lb9YYIoBaY" alt="" />
             <div className='nameandlevel'>
-              <a href="">  Daisy AgatoDaisy Agato</a> <GoDotFill size={10} />
+              <a href="/">  Daisy AgatoDaisy Agato</a> <GoDotFill size={10} />
               <span className='level'> Following</span>
               <p className='tag-line'>HR Recruiter at HitTou Tech Inc. </p>
               <div>
@@ -184,7 +184,7 @@ const Main = () => {
           <br />
           <br />
           <p>
-            <a href="">https://lnkd.in/g9cdEukZ</a>
+            <a href="/">https://lnkd.in/g9cdEukZ</a>
             {/* <a href="">#backend</a>
             <a href="">#backenddevelopment</a>
             <a href="">#backenddeveloper</a>
@@ -246,7 +246,7 @@ const Main = () => {
           <div>
             <img src="https://media.licdn.com/dms/image/D4D03AQEFi7aGz1Ia3w/profile-displayphoto-shrink_100_100/0/1701605709734?e=1715212800&v=beta&t=6MjuT-qlluiF_l4fDFYU4Ig1qgm_4x5kd575DJb5n7E" alt="" />
             <div className='nameandlevel'>
-              <a href=""> Muhammad MasoodMuhammad Masood</a> <GoDotFill size={10} />
+              <a href="/"> Muhammad MasoodMuhammad Masood</a> <GoDotFill size={10} />
               <span className='level'>2nd</span>
               <p className='tag-line'>Graphic Designing | Logo Designing | Web Designing | Branding... </p>
               <div>
@@ -273,7 +273,7 @@ const Main = () => {
           <br />
           <br />
           <p>
-            <a href="">Madcom Digital - (PVT) Limited</a>
+            <a href="/">Madcom Digital - (PVT) Limited</a>
             {/* <a href="">#backend</a>
             <a href="">#backenddevelopment</a>
             <a href="">#backenddeveloper</a>
@@ -321,7 +321,7 @@ const Main = () => {
         <div className='comment'>
           <div>
             <img src="https://media.licdn.com/dms/image/D5603AQEScr_1nTjBqg/profile-displayphoto-shrink_100_100/0/1702804473684?e=1715212800&v=beta&t=65yHiZGY2ZTrK3T2tJqvlRKzp5grfQ7IM7dbOSMUQKY" alt="" />
-            <a href="">Jalil Umar</a>
+            <a href="/">Jalil Umar</a>
             <span className='span'>finds this funny</span>
           </div>
           <div className='icon'>
@@ -335,7 +335,7 @@ const Main = () => {
           <div>
             <img src="https://media.licdn.com/dms/image/C4D0BAQHa212XwpTpRw/company-logo_100_100/0/1660626687953/geeksforgeeks_logo?e=1717632000&v=beta&t=8W79UhZWxzn-ATXaLOoZtZ5FjXN0uIfWVfGeUoeD35M" alt="" />
             <div className='nameandlevel'>
-              <a href="">GeeksforGeeksGeeksforGeeks</a> <GoDotFill size={10} />
+              <a href="/">GeeksforGeeksGeeksforGeeks</a> <GoDotFill size={10} />
               <span className='level'>2nd</span>
               <p className='tag-line'>1,782,037 followers </p>
               <div>
@@ -357,14 +357,14 @@ const Main = () => {
           <br /><br />.  <br />.<br /> . <br />
           . <br />.<br />.<br /> .<br />  <br />
           <p>
-            <a href="">#devlife</a>
-            <a href="">#codinglife</a>
-            <a href="">#programminghumor</a>
-            <a href="">#backenddeveloper</a>
-            <a href="">#fullstackdeveloper</a> <br />
-            <a href="">#developercommunity</a>
-            <a href="">#trendingnow </a>
-            <a href="">#fullstackengineer</a>
+            <a href="/">#devlife</a>
+            <a href="/">#codinglife</a>
+            <a href="/">#programminghumor</a>
+            <a href="/">#backenddeveloper</a>
+            <a href="/">#fullstackdeveloper</a> <br />
+            <a href="/">#developercommunity</a>
+            <a href="/">#trendingnow </a>
+            <a href="/">#fullstackengineer</a>
           </p>
         </div>
         <img src="https://media.licdn.com/dms/image/D5622AQGdFysZeJo6IA/feedshare-shrink_800/0/1709548190813?e=1712793600&v=beta&t=8M6-hECtPrscRfTEfXUkJsrpw83cFAY5dj9lhiu5BGM" alt="" />
