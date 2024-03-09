@@ -31,7 +31,7 @@ const Header = () => {
                         <li><a href="/"><BiSolidShoppingBagAlt size={25} /><span>Jobs</span></a></li>
                         <li><a href="/"><AiOutlineMessage size={25} /><span>Messaging</span></a></li>
                         <li><a href="/"><IoNotificationsSharp size={25} /><span>Notifications</span></a></li>
-                        <li className='image'><img src="https://avatars.githubusercontent.com/u/121513581?s=48&v=4" alt="me" />ME<sub><VscTriangleDown size={15} /></sub></li>
+                        <li id='image'><img src="https://avatars.githubusercontent.com/u/121513581?s=48&v=4" alt="me" />ME<sub><VscTriangleDown size={15} /></sub></li>
                     </ul>
                 </nav>
                 <div className='third-menu'>

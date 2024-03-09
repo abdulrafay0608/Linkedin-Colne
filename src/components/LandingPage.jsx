@@ -3,10 +3,12 @@ import Profile from './Profile'
 import Main from './Main'
 import Connection from './Connection'
 
+import "./LandingPage.css"
+
 const LandingPage = () => {
     
     return (
-        <main style={{display:"flex", justifyContent:"center", gap:"25px" , margin:"75px 100px"}}>
+        <main id='main'>
             <Profile />
             <Main />
             <Connection />

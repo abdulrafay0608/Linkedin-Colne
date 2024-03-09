@@ -1,6 +1,7 @@
 import React from 'react'
 import { FaPlus } from "react-icons/fa6";
 import { FaArrowRightLong } from "react-icons/fa6";
+import { VscTriangleDown } from "react-icons/vsc";
 
 
 import "./Connection.css"
@@ -51,6 +52,30 @@ const Connection = () => {
           <a href="/">View all recommendations <FaArrowRightLong /> </a>
         </div>
       </div >
+
+      <a href='/' className='premium'>
+        <img src="https://media.licdn.com/media/AAYQAgTPAAgAAQAAAAAAADVuOvKzTF-3RD6j-qFPqhubBQ.png" alt="" />
+      </a>
+
+
+
+      <ul>
+        <li><a href="">About</a></li>
+        <li><a href="">Accessibility</a></li>
+        <li><a href="">Help Center</a></li>
+        <li><a href="">Privacy & Terms <sub> <VscTriangleDown /></sub> </a></li>
+        <li><a href="">Ad Choices</a></li>
+        <li><a href="">Advertising </a></li>
+        <li><a href="">Business Services <sub> <VscTriangleDown /></sub></a></li>
+        <li><a href="">Get the LinkedIn app</a></li>
+        <li><a href="">More</a></li>
+      </ul>
+
+      <footer> 
+        <img src="https://static.licdn.com/aero-v1/sc/h/aahlc8ivbnmk0t3eyz8as5gvr" alt="" />
+        LinkedIn Corporation © 2024
+      </footer>
+
     </div>
   )
 }
